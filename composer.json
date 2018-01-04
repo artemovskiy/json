@@ -1,0 +1,19 @@
+{
+    "name": "xydens/json",
+    "description": "Library for processing JSON. Works with Exceptions",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Xydens",
+            "email": "xydenswork@gmail.com"
+        }
+    ],
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "Xydens\\JSON\\": "src/"
+    }
+}
